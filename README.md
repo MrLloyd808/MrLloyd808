@@ -1,5 +1,8 @@
 # 💫 About Me:
-learning to code <br>
+<h2>SAINT LLOYD</h2>
+
+<p>JR WEB DEVELOPER</p>
+<br>
 
 
 ## 🌐 Socials:
