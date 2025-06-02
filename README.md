@@ -1,6 +1,7 @@
 # 💫 About Me:
-<h2>SAINT LLOYD</h2>
-
+<b>NAME: SAINT LLOYD</b>
+<p>AGE: 20</p>
+<p>EXP: 2 YEARS</p>
 <p>JR WEB DEVELOPER</p>
 <br>
 
